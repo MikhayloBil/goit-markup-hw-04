@@ -1,11 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" style="position:absolute;width:0;height:0;overflow:hidden">
   <defs>
-    <symbol id="icon-facebook" viewBox="0 0 32 32">
-      <path d="M0 0h32v32H0V0z"/>
-      <path d="M-624-3472h2880v6936H-624v-6936z"/>
-      <path d="M-624-1200h2880V360H-624v-1560z"/>
-      <path d="M-312-736h528v848a8 8 0 0 1-8 8h-512a8 8 0 0 1-8-8v-848z"/>
-      <path fill="#e5e5e5" d="M56 16c0 11.046-4.477 21.046-11.716 28.284S27.045 56 16 56C4.954 56-5.046 51.523-12.284 44.284S-24 27.045-24 16c0-11.046 4.477-21.046 11.716-28.284S4.955-24 16-24c11.046 0 21.046 4.477 28.284 11.716S56 4.955 56 16z" style="fill:var(--color1, #e5e5e5)"/>
+    <symbol id="icon-facebook" viewBox="0 0 32 32">     
       <path fill="#f4f4fd" d="M21.329 5.313h2.921V.225C23.746.156 22.013 0 19.994 0c-4.212 0-7.097 2.649-7.097 7.519V12H8.249v5.688h4.648V32h5.699V17.689h4.46l.708-5.688h-5.169V8.082c.001-1.644.444-2.769 2.735-2.769z" style="fill:var(--color2, #f4f4fd)"/>
     </symbol>
     <symbol id="icon-linkedin" viewBox="0 0 32 32">
