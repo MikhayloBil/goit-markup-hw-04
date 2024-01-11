@@ -116,6 +116,13 @@ address {
   color: #404bbf;
 }
 
+.header-menu-link:hover::after {
+  width: 48px;
+  height: 4px;
+  border-radius: 2px;
+  background: var(--OCEAN, #404bbf);
+}
+
 .header-address {
   font-style: normal;
   margin-left: auto;
