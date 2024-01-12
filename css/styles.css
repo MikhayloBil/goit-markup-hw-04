@@ -228,6 +228,9 @@ address {
 }
 
 .features-item-blok {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   height: 112px;
   border-radius: 4px;
   border: 1px solid var(--LIGHT-SLATE, #8e8f99);
