@@ -452,6 +452,10 @@ address {
   gap: 120px;
 }
 
+.footer-link-text {
+  margin-right: 120px;
+}
+
 .footer-link {
   display: inline-block;
   color: var(--IRIS, #4d5ae5);
@@ -488,7 +492,8 @@ address {
 }
 
 .footer-icon-element {
-  display: inline-block;
+  display: flex;
+  align-items: baseline;
 }
 
 .footer-icon-list {
