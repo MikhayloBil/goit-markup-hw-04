@@ -449,6 +449,7 @@ address {
 
 .footer-element {
   display: flex;
+  align-items: baseline;
   gap: 120px;
 }
 
@@ -489,11 +490,6 @@ address {
   line-height: 1.5;
   letter-spacing: 0.02em;
   margin-bottom: 16px;
-}
-
-.footer-icon-element {
-  display: flex;
-  align-items: baseline;
 }
 
 .footer-icon-list {
