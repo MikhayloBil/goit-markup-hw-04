@@ -117,10 +117,13 @@ address {
 }
 
 .header-menu-link:hover::after {
+  content: "";
   width: 48px;
   height: 4px;
   border-radius: 2px;
   background: var(--OCEAN, #404bbf);
+  position: absolute;
+  top: 0;
 }
 
 .header-address {
