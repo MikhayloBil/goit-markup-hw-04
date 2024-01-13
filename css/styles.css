@@ -105,19 +105,23 @@ address {
 }
 
 .header-menu-link {
-  color: #404bbf;
+  color: #2e2f42;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
   padding: 27px 0;
-  position: relative;
   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .header-menu-link:hover,
 .header-menu-link:focus {
   color: #404bbf;
+}
+
+.current {
+  color: #404bbf;
+  position: relative;
 }
 
 .current::after {
